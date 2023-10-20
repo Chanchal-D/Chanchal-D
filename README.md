@@ -9,4 +9,5 @@ Greetings! I'm a versatile professional deeply immersed in the worlds of web dev
 
 - 📫 You can reach me out on the following platforms ...
 
+[![An image of @chanchald's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chanchald)](https://holopin.io/@chanchald)
 -->
